@@ -1,0 +1,12 @@
+name: shinyTest
+title: shinyTest
+username:
+account: swtzang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 623113
+bundleId: 1782721
+url: https://swtzang.shinyapps.io/shinyTest/
+when: 1545738314.71964
+asMultiple: FALSE
+asStatic: FALSE

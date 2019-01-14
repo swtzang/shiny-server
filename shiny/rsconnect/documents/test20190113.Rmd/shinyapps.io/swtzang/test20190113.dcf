@@ -1,0 +1,12 @@
+name: test20190113
+title: test20190113
+username:
+account: swtzang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 639406
+bundleId: 1811807
+url: https://swtzang.shinyapps.io/test20190113/
+when: 1547394173.56048
+asMultiple: FALSE
+asStatic: FALSE
